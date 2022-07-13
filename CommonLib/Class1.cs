@@ -1,6 +1,6 @@
 ﻿namespace CommonLib;
 
-public record Input(string A, int B, uint C, string D);
+public record Input(string A, int B, uint C, string D, float E);
 public record Output(string A);
 
 public class CommonApi
